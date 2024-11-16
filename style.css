@@ -460,6 +460,9 @@
     .advertisement{
       display: none;
     }
+    .mainpicks h1{
+        top: 95%;
+    }
    
  }
 
